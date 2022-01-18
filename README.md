@@ -21,5 +21,5 @@ Future directions
 
 Other information
 •	I kept the helper functions in a separate c file
-•	The function prototypes are kept in a user created header file
+•	The function prototypes are kept in a user created header file.
 
